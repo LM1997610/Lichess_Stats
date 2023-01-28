@@ -1,4 +1,4 @@
-## Lichess_Stats
+# Lichess_Stats
 
 This project was done with basic coding skills, when I first approached Python.\
 Room for improvement is large and also the depth of the analysis can be deepened remarkably.\
@@ -35,5 +35,5 @@ the output shows:
 * the **performance** on those openings (**wins**, **draws** and **losses**)
 -------------------------
 
-**example.ipynb** → **NoteBook** created just to show the results, adapting the source code. 
+**example.ipynb** → **NoteBook** created just to show the results, adapting the source code.\
 Stats calculated for two example players
