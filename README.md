@@ -10,8 +10,7 @@ Results are printed on the Command Line and the plots allow for a graphical disp
 
 ------------------------------------
 ## Requirements :
-skacnknasncacskacsj
-ksncknksdncknskna
+Core of the project is [**Berserk**](https://pypi.org/project/berserk), python client for the [**Lichess API**](https://lichess.org/api)
 
 ------------------------------------
 ## Structure of the Repo :
