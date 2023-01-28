@@ -1,4 +1,4 @@
-# Lichess_Stats
+# Lichess Stats
 
 This project was done with basic coding skills, when I first approached Python.\
 Room for improvement is large and also the depth of the analysis can be deepened remarkably.\
