@@ -35,5 +35,4 @@ the output shows:
 * the **performance** on those openings (**wins**, **draws** and **losses**)
 -------------------------
 
-**example.ipynb** → **NoteBook** created just to show the results, adapting the source code.\
-Stats calculated for two example players
+**example.ipynb** → **NoteBook** created just to show the results, adapting the source code. Here stats calculated for two example players
