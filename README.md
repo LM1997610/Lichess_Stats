@@ -4,7 +4,7 @@ This project was done with basic coding skills, when I first approached Python.\
 Room for improvement is large and also the depth of the analysis can be deepened remarkably.\
 But I'm out of time
 
-**Lichess_cmd.py** and **Opening_cmd.py** are two programs meant to be run on the command prompt.\
+**Lichess_cmd.py** and **Opening_cmd.py** are two programs meant to be run on the Command Prompt.\
 These return stats for the searched [**Lichess**](https://lichess.org) player.\
 Results are printed on the Command Line and the plots allow for a graphical display.
 
@@ -33,3 +33,7 @@ the output shows:
 the output shows:
 * the **most played openings** from that side
 * the **performance** on those openings (**wins**, **draws** and **losses**)
+-------------------------
+
+**example.ipynb** → **NoteBook** created just to show the results, adapting the source code. 
+Stats calculated for two example players
