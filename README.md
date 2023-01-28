@@ -5,7 +5,7 @@ Room for improvement is large and also the depth of the analysis can be deepened
 But I'm out of time
 
 X and Y are two programs meant to be run on the command prompt.\
-These return stats for the searched [**lichess**](https://lichess.org) player.\
+These return stats for the searched [**lichess**]("https://lichess.org") player.\
 Results are printed on the Command Line and the plots allow for a graphical display.
 
 Particularly:
