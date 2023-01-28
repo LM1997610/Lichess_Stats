@@ -20,8 +20,9 @@ the output shows:
 * the number of games **won** (with both colors), **lost** and **drawn**
 * the causes of defeat (**CheckMate**, **Resignation**, **OutOfTime**) for <u>lost games</u>
 
+------------------
 
-2. **Opening_cmd.py** filters the games of the desired player by:
+**Opening_cmd.py** filters the games of the desired player by:
 >* **side** for which he played (<u>black</u> or <u>white</u>)
 >* <u>rated</u> or <u>not rated</u> gemes  
 >* time control (**bullet**, **blitz**, **rapid**, **classical**)
