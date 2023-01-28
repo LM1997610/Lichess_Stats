@@ -10,7 +10,7 @@ Results are printed on the Command Line and the plots allow for a graphical disp
 
 Particularly:
 
-In **Lichess_cmd.py** we can filter the games of the desired player by:[^1]
+In **'Lichess_cmd.py'** we can filter the games of the desired player by:[^1]
 - rated or not rated gemes  
 - time control (bullet, blitz, rapid, classical)
 
