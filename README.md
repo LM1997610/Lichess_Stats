@@ -9,7 +9,11 @@ These return stats for the searched [**Lichess**](https://lichess.org) player.\
 Results are printed on the Command Line and the plots allow for a graphical display.
 
 ------------------------------------
+## Requirements :
+skacnknasncacskacsj
+ksncknksdncknskna
 
+------------------------------------
 ## Structure of the Repo :
 
 **Lichess_cmd.py** filters the games of the desired player by:
