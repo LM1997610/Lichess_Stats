@@ -8,10 +8,6 @@ from tqdm import tqdm
 import re
 import config
 
-
-
-#token = "lip_dT8A7KSMM7Z7EOX9c8fF"
-
 session = berserk.TokenSession(config.TeleBot_token)
 client = berserk.Client(session)
 
