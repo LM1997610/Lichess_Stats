@@ -7,7 +7,8 @@ But I'm out of time
 **Lichess_cmd.py** and **Opening_cmd.py** are two programs meant to be run on the command prompt.\
 These return stats for the searched [**Lichess**](https://lichess.org) player.\
 Results are printed on the Command Line and the plots allow for a graphical display.
--------------------------------------------------------------------------------------------
+
+--------------------------------
 
 ### Structure of the Repo:
 
