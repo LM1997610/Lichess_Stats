@@ -1,12 +1,12 @@
 # Lichess_Stats
 
-This project was done with basic coding skills, when I first approached Python.
+This project was done with basic coding skills, when I first approached Python.\
 Room for improvement is large and also the depth of the analysis can be deepened remarkably.
 
 
-X and Y are two programs meant to be run on the command prompt.
-These return stats for the searched lichess player.
-Results are printed on the Command Line and the plots allow for a graphical display.
+X and Y are two programs meant to be run on the command prompt.\
+These return stats for the searched lichess player.\
+Results are printed on the Command Line and the plots allow for a graphical display.\
 
 Particularly:
 
