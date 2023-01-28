@@ -12,7 +12,7 @@ Results are printed on the Command Line and the plots allow for a graphical disp
 
 ### Structure of the Repo:
 
-1. **Lichess_cmd.py** filters the games of the desired player by:
+**Lichess_cmd.py** filters the games of the desired player by:
 >* <u>rated</u> or <u>not rated</u> gemes  
 >* time control (**bullet**, **blitz**, **rapid**, **classical**)
 
