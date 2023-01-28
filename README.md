@@ -13,18 +13,18 @@ Results are printed on the Command Line and the plots allow for a graphical disp
 ## Structure of the Repo :
 
 **Lichess_cmd.py** filters the games of the desired player by:\
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; * <u>rated</u> or <u>not rated</u> gemes  
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; * time control (**bullet**, **blitz**, **rapid**, **classical**)
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - <u>rated</u> or <u>not rated</u> gemes  
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - time control (**bullet**, **blitz**, **rapid**, **classical**)
 
 the output shows:
 * the number of games **won** (with both colors), **lost** and **drawn**
 * the causes of defeat (**CheckMate**, **Resignation**, **OutOfTime**) for <u>lost games</u>
 ---------------
 
-2) **Opening_cmd.py** filters the games of the desired player by:
-* &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; **side** for which he played (<u>black</u> or <u>white</u>)
-* &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; <u>rated</u> or <u>not rated</u> gemes  
-* &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; time control (**bullet**, **blitz**, **rapid**, **classical**)
+**Opening_cmd.py** filters the games of the desired player by:\
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; -  **side** for which he played (<u>black</u> or <u>white</u>)
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; -  <u>rated</u> or <u>not rated</u> gemes  
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; -  time control (**bullet**, **blitz**, **rapid**, **classical**)
 
 the output shows:
 * the **most played openings** from that side
