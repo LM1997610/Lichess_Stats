@@ -10,7 +10,7 @@ Results are printed on the Command Line and the plots allow for a graphical disp
 
 ------------------------------------
 
-### Structure of the Repo :
+## Structure of the Repo :
 
 **Lichess_cmd.py** filters the games of the desired player by:
 <br>
