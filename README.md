@@ -1,4 +1,4 @@
-# Lichess_Stats
+## Lichess_Stats
 
 This project was done with basic coding skills, when I first approached Python.\
 Room for improvement is large and also the depth of the analysis can be deepened remarkably.\
@@ -10,19 +10,19 @@ Results are printed on the Command Line and the plots allow for a graphical disp
 
 Particularly:
 
-In **Lichess_cmd.py** we can filter the games of the desired player by:
-* <u>rated</u> or <u>not rated</u> gemes  
-* time control (**bullet**, **blitz**, **rapid**, **classical**)
+1) **Lichess_cmd.py** filters the games of the desired player by:
+>* <u>rated</u> or <u>not rated</u> gemes  
+>* time control (**bullet**, **blitz**, **rapid**, **classical**)
 
 the output shows:
 * the number of games **won** (with both colors), **lost** and **drawn**
 * the causes of defeat (**CheckMate**, **Resignation**, **OutOfTime**) for <u>lost games</u>
 
 
-In **Opening.py** we can filter the games of the desired player by:
-* **side** for which he played (<u>black</u> or <u>white</u>)
-* <u>rated</u> or <u>not rated</u> gemes  
-* time control (**bullet**, **blitz**, **rapid**, **classical**)
+2) **Opening_cmd.py** filters the games of the desired player by:
+>* **side** for which he played (<u>black</u> or <u>white</u>)
+>* <u>rated</u> or <u>not rated</u> gemes  
+>* time control (**bullet**, **blitz**, **rapid**, **classical**)
 
 the output shows:
 * the **most played openings** from that side
