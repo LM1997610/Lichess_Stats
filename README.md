@@ -1,4 +1,4 @@
-# Chess players stats from <a href="https://lichess.org" target="_blank">Lichess.org</a>
+# Chess players stats from <a href="https://lichess.org" target="_blank">*Lichess.org*</a>
 
 This project was done with basic coding skills, when I first approached Python.\
 Room for improvement is large, and depth of game analysis can also be significantly deepened... but I'm out of time\
@@ -10,7 +10,7 @@ Results are printed on the Command Line and plots allow for a graphical display.
 
 ------------------------------------
 ## Requirements :
-Core of the project is [**Berserk**](https://pypi.org/project/berserk): python client for the [**Lichess API**](https://lichess.org/api)
+Core of the project is [**Berserk**](https://pypi.org/project/berserk): python client for the [**Lichess API**](https://lichess.org/api). Do *pip install berserk*
 
 It requires a **Token**:\
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; From your [Lichess](https://lichess.org) account, click on Username in top right corner → preferences → API Access Tokens\
