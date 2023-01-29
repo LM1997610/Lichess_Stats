@@ -91,8 +91,7 @@ def func2(pct, allvalues):
     return "{:.1f}%\n({:d} games)".format(pct, absolute)
 
 def pie_plot(Stat, D_lost, search):
-    print(" ")
-
+    
     labels = [x for x in Stat.keys()][1:]
     sizes = [y for y in Stat.values()][1:]
     etichette = [x for x in D_lost.keys()]
