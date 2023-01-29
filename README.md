@@ -12,12 +12,12 @@ Results are printed on the Command Line and plots allow for a graphical display.
 ## Requirements :
 Core of the project is [**Berserk**](https://pypi.org/project/berserk): python client for the [**Lichess API**](https://lichess.org/api)\
 It requires a **Token**: click your username in top right corner → preferences → API Access Tokens\
-Replace with your own token in the code
+Replace with your own token in the codes
 
 ------------------------------------
 ## Structure of the Repo :
 
-**Lichess_cmd.py** filters the games of the desired player by:
+**Lichess_cmd.py** → filters the games of the desired player by:
 <br>
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - <u>rated</u> or <u>not rated</u> games  
@@ -28,7 +28,7 @@ the output shows:
 * the causes of defeat (**CheckMate**, **Resignation**, **OutOfTime**) for <u>lost games</u>
 ---------------
 
-**Opening_cmd.py** filters the games of the desired player by:
+**Opening_cmd.py** → filters the games of the desired player by:
 <br>
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; -  **side** for which he played (<u>black</u> or <u>white</u>)\
