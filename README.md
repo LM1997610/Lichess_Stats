@@ -42,3 +42,5 @@ the output shows:
 
 **example.ipynb** → **NoteBook** created just to show the results, adapting the source code.\
 Here stats computed for two example players
+
+---------------------------------
