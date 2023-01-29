@@ -2,7 +2,7 @@
 
 This project was done with basic coding skills, when I first approached Python.\
 Room for improvement is large, and depth of game analysis can also be significantly deepened... but I'm out of time\
-The goal was to practice with an API and to do some plots
+The goal was to practice with an API and to do some plots with *matplotlib*
 
 **Lichess_cmd.py** and **Opening_cmd.py** are two programs meant to be run on the Command Prompt.\
 These return stats for the searched <a href="https://lichess.org" target="_blank">**Lichess**</a> player.\
