@@ -11,7 +11,8 @@ Results are printed on the Command Line and plots allow for a graphical display.
 ------------------------------------
 ## Requirements :
 Core of the project is [**Berserk**](https://pypi.org/project/berserk): python client for the [**Lichess API**](https://lichess.org/api)\
-It requires a **Token**: from your [Lichess](https://lichess.org) account, click username in top right corner → preferences → API Access Tokens\
+It requires a **Token**:\
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; from your [Lichess](https://lichess.org) account, click username in top right corner → preferences → API Access Tokens\
 Replace with your own token in the codes
 
 ------------------------------------
