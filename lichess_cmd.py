@@ -7,7 +7,6 @@ from matplotlib import pyplot as plt
 
 import config
 
-
 session = berserk.TokenSession(config.lichess_token) 
 client = berserk.Client(session)
 
@@ -62,9 +61,7 @@ def Blitz_Stat(search):
     games = list(tqdm(c, total= 5000) )
     games = [game for game in games if game["players"]["white"]]
     games = [game for game in games if game["players"]["black"]]
-    #games = [game for game in games if game["players"]["black"]]
     print(" ")
-
     decisivi = [game for game in games if "winner" in game ]
     draw = ([game for game in games if "winner" not in game.keys()])
     white_wins = [game for game in decisivi if game["players"]["white"]["user"]["name"] == player and game["winner"] == "white"]
@@ -78,7 +75,6 @@ def Blitz_Stat(search):
     print(" ")
     print("  Lichess = | Games :", len(games) ," | Vttorie :",len(white_wins)+len(black_wins), " | Sconfitte : ", len(tot_losses))
     print(" ")
-
     D_lost = Counter([game["status"] for game in tot_losses])
     #D_lost  = dict(Counter(D_lost))
     print(" d4t4 = ", Stat)
@@ -99,14 +95,10 @@ def pie_plot(Stat, D_lost, search):
 
     labels = [x for x in Stat.keys()][1:]
     sizes = [y for y in Stat.values()][1:]
-
     etichette = [x for x in D_lost.keys()]
     dimens = [y for y in D_lost.values()]
-    
     fig = plt.figure(figsize = (13, 7.7), dpi=80)  #12 6.8
-
     ax = fig.add_subplot(121)
-
     explode = (0.01, 0.01, 0.01, 0.0207)
     colors = ( "#404540", "#d0dbd3", "#1152a8", "#de5d2f") # blcak, white, "blue", "red" = losses
 
@@ -143,17 +135,4 @@ def pie_plot(Stat, D_lost, search):
 
 
 search_request()
-
-
-
-
-
-
-
-
-
-
-
-
-
 
