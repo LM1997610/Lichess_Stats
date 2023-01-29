@@ -10,9 +10,9 @@ Results are printed on the Command Line and plots allow for a graphical display.
 
 ------------------------------------
 ## Requirements :
-Core of the project is [**Berserk**](https://pypi.org/project/berserk): python client for the [**Lichess API**](https://lichess.org/api)\
-It requires a **Token**:
+Core of the project is [**Berserk**](https://pypi.org/project/berserk): python client for the [**Lichess API**](https://lichess.org/api)
 
+It requires a **Token**:\
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; From your [Lichess](https://lichess.org) account, click on Username in top right corner → preferences → API Access Tokens\
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; Replace with your own token in the codes
 
