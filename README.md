@@ -1,4 +1,4 @@
-# Chess players stats from <a href="https://lichess.org" target="_blank">**Lichess**</a>
+# Chess players stats from <a href="https://lichess.org" target="_blank">Lichess.org</a>
 
 This project was done with basic coding skills, when I first approached Python.\
 Room for improvement is large, and depth of game analysis can also be significantly deepened... but I'm out of time\
