@@ -1,12 +1,12 @@
 # Lichess Stats
 
 This project was done with basic coding skills, when I first approached Python.\
-Room for improvement is large and also the depth of the analysis can be deepened remarkably... but I'm out of time\
+Room for improvement is large, and depth of game analysis can also be significantly deepened... but I'm out of time\
 The goal was to practice with an API and to do some plots
 
 **Lichess_cmd.py** and **Opening_cmd.py** are two programs meant to be run on the Command Prompt.\
 These return stats for the searched [**Lichess**](https://lichess.org) player.\
-Results are printed on the Command Line and the plots allow for a graphical display.
+Results are printed on the Command Line and plots allow for a graphical display.
 
 ------------------------------------
 ## Requirements :
