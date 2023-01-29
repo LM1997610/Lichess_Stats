@@ -1,17 +1,12 @@
 
-
-
 import berserk
-import datetime
-import pandas as pd
-import numpy as np
-from collections import Counter
-from matplotlib import pyplot as plt
 from tqdm import tqdm
+from matplotlib import pyplot as plt
 import re
+
 import config
 
-session = berserk.TokenSession(config.TeleBot_token)
+session = berserk.TokenSession(config.lichess_token)
 client = berserk.Client(session)
 
 _max = None
