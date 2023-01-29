@@ -7,6 +7,7 @@ The goal was to practice with an API and to do some plots
 **Lichess_cmd.py** and **Opening_cmd.py** are two programs meant to be run on the Command Prompt.\
 These return stats for the searched [**Lichess**](https://lichess.org){:target="_blank" rel="noopener"} player.\
 Results are printed on the Command Line and plots allow for a graphical display.
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 ------------------------------------
 ## Requirements :
