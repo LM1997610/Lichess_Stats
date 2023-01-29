@@ -11,7 +11,7 @@ Results are printed on the Command Line and plots allow for a graphical display.
 ------------------------------------
 ## Requirements :
 Core of the project is [**Berserk**](https://pypi.org/project/berserk): python client for the [**Lichess API**](https://lichess.org/api)\
-It requires a **Token**: click your username in top right corner → preferences → API Access Tokens\
+It requires a **Token**: from your [Lichess](https://lichess.org) account, click username in top right corner → preferences → API Access Tokens\
 Replace with your own token in the codes
 
 ------------------------------------
@@ -31,7 +31,7 @@ the output shows:
 **Opening_cmd.py** → filters the games of the desired player by:
 <br>
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; -  **side** for which he played (<u>black</u> or <u>white</u>)\
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; -  **side** for which he played (**Black** or **White**)\
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; -  <u>rated</u> or <u>not rated</u> games\
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; -  time control (**bullet**, **blitz**, **rapid**, **classical**)
 
