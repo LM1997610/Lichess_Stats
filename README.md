@@ -19,7 +19,7 @@ It requires a **Token**: click your username in top right corner → preferences
 **Lichess_cmd.py** filters the games of the desired player by:
 <br>
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - <u>rated</u> or <u>not rated</u> gemes  
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - <u>rated</u> or <u>not rated</u> games  
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; - time control (**bullet**, **blitz**, **rapid**, **classical**)
 
 the output shows:
@@ -31,7 +31,7 @@ the output shows:
 <br>
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; -  **side** for which he played (<u>black</u> or <u>white</u>)\
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; -  <u>rated</u> or <u>not rated</u> gemes\
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; -  <u>rated</u> or <u>not rated</u> games\
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; -  time control (**bullet**, **blitz**, **rapid**, **classical**)
 
 the output shows:
