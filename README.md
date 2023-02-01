@@ -6,7 +6,7 @@ The goal was to practice with an API and to do some plots with *matplotlib*.
 
 **Lichess_cmd.py** and **Opening_cmd.py** are two programs meant to be run on the Command Prompt.\
 These return stats for the searched <a href="https://lichess.org" target="_blank">**Lichess**</a> player.\
-Results are printed on the Command Line and plots allow for a graphical display.
+Results are printed on the Command Line and plots allow for a graphical visualization.
 
 ------------------------------------
 ## Requirements :
